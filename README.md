@@ -12,7 +12,9 @@ The company was founded in 2016 by Junbin Zhang, the company's founder and CEO.
 Junbin Zhang.
 
 * How did the idea for the company (or project) come about?
-The idea for the Narwal T10 came to the founder during a family dinner
+The idea for the Narwal T10 came to the founder during a family dinner.
+
+>While having dinner with his family, our founder, Junbin, confided that he had hit some roadblocks with his robotics projects. When the dinner was almost over, suddenly Junbin's father looked down on the floor and unconsciously mentioned how difficult it was to clean the sticky mess left from spilled wine and fallen crumbs. He wished that there were something better than traditional mops that could save him from spending hours cleaning the floors.
 
 * How is the company funded? How much funding have they received?
 Narwal Robotics has had a significant funding history. The company raised a total of $14 million, with its latest funding round being Series D. Investors in Narwal include Tencent, Chuangwan Investment, Source Code Capital, ByteDance, HongShan, and others. Additionally, in April 2020, Narwal raised CNY 1 billion in a funding round led by ByteDance
@@ -73,9 +75,9 @@ Narwal Robotics holds a notable position in the home floor cleaning robotics mar
 * How is your company performing relative to competitors in the same field?
 The competitive landscape in the robot vacuum cleaner market is dynamic, with companies vying for market share through innovation, product differentiation, and strategic positioning. While Narwal may not be consuming a large percentage of the market compared to industry giants like iRobot, its presence and growth demonstrate its ability to compete and offer unique solutions in the smart cleaning robot sector.
 
-New Startups in the Field:
+**New Startups in the Field:**
 Dreametech: Dreametech, a new startup in the cleaning robot market, has been vocal about technological advancements and criticized Narwal Robotics for using outdated technology. This critique suggests that Dreametech is striving to position itself as a technologically advanced competitor in the industry.
-Long-standing Companies in the Field:
+**Long-standing Companies in the Field:**
 Ecovacs Robotics Co., Ltd: Ecovacs, a well-established player in the cleaning robot market, has maintained a dominant position with a significant market share. Despite facing competition from Narwal Robotics, Ecovacs continues to lead in both online and offline sales, showcasing its strong presence and market influence.
 iRobot Corporation: iRobot, another long-standing company in the field, is known for its advanced cleaning solutions like the Roomba vacuum cleaner and Braava mopping robot. While Narwal Robotics competes with iRobot, the latter's established reputation and innovative products have solidified its position as a key player in the industry.
 Roborock Technology Co., Ltd: Roborock, a key competitor of Narwal Robotics, offers advanced cleaning solutions like the Roborock S1 robot vacuum cleaner. The company competes with industry leaders and contributes to the innovation and competitiveness in the market.
@@ -97,10 +99,11 @@ It actually utilizes the same technologies, it just involves keeping them up to 
 * Why are these technologies appropriate for your solution?
 They are proven to work, it just comes down to how many times the robot has to run over a specific spot.
 
-References:
-1. Narwal Robotics Alternatives - Knoji - https://narwal.knoji.com/alternatives/
-2. Narwal - Products, Competitors, Financials, Employees - CB Insights  https://www.cbinsights.com/company/narwal
-3. Top Narwal Robotics Competitors and Alternatives - Craft.co - https://craft.co/narwal-robotics/competitors
-4. Narwal Freo Review - Is It The Best Combined Vacuum And Mop Robot Cleaner? - Forbes - https://www.forbes.com/sites/bennyhareven/2023/07/30/is-the-narwal-freo-the-best-combined-vacuum-and-mop-robot-cleaner/?sh=73348b1317b5
-5. Narwal Company Profile: Valuation, Funding & Investors - PitchBook - https://pitchbook.com/profiles/company/267350-77
-6. Amazon - Narwal Freo Robot Vacuum and Mop - https://www.amazon.com/NARWAL-Freo-Ultra-Zero-Tangling-Self-Contained/dp/B0CPLP422K/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GV_PrekbcPJpdZ9qNbmIJdDlY4sWAvogdsWVmyasfsNpRxRU4t2EBHjNy6NDDDPRlN-6rAnnEFMW1BSOln_YywjWji5lz9Q3XNG3Je0B-pCIR8Cm_YGd6Sydguhs7t_IKgJZgMXr_PpmtQa6aYN2FDFeOi-iIxrZ6bHxCWNWJJGhoU9_RDR9W199T1gsx3Zbv82v8cAjVaCZNzGnChgqzvYsBjHa4o-tZnL_l2p3Qpk.3mPuTePOOa9KNgpx5f091_swJM4YLK8CC9-6dKORA84&dib_tag=se&hvadid=557200967691&hvdev=c&hvlocphy=9029671&hvnetw=g&hvqmt=b&hvrand=10171805049469228781&hvtargid=kwd-999593233141&hydadcr=16266_13398512&keywords=narwal+mop+and+vacuum&qid=1710297000&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.ac578592-0362-4e0a-958c-0f2dd61d30d4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 
+## References:
+1. Narwal Robotics Alternatives - [Knoji](https://narwal.knoji.com/alternatives/)
+2. Narwal - Products, Competitors, Financials, Employees - [CB Insights](https://www.cbinsights.com/company/narwal)
+3. Top Narwal Robotics Competitors and Alternatives - [Craft.co](https://craft.co/narwal-robotics/competitors)
+4. Narwal Freo Review - Is It The Best Combined Vacuum And Mop Robot Cleaner? - [Forbes](https://www.forbes.com/sites/bennyhareven/2023/07/30/is-the-narwal-freo-the-best-combined-vacuum-and-mop-robot-cleaner/?sh=73348b1317b5)
+5. Narwal Company Profile: Valuation, Funding & Investors - [PitchBook](https://pitchbook.com/profiles/company/267350-77)
+6. Amazon - [Narwal Freo Robot Vacuum and Mop](https://www.amazon.com/NARWAL-Freo-Ultra-Zero-Tangling-Self-Contained/dp/B0CPLP422K/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GV_PrekbcPJpdZ9qNbmIJdDlY4sWAvogdsWVmyasfsNpRxRU4t2EBHjNy6NDDDPRlN-6rAnnEFMW1BSOln_YywjWji5lz9Q3XNG3Je0B-pCIR8Cm_YGd6Sydguhs7t_IKgJZgMXr_PpmtQa6aYN2FDFeOi-iIxrZ6bHxCWNWJJGhoU9_RDR9W199T1gsx3Zbv82v8cAjVaCZNzGnChgqzvYsBjHa4o-tZnL_l2p3Qpk.3mPuTePOOa9KNgpx5f091_swJM4YLK8CC9-6dKORA84&dib_tag=se&hvadid=557200967691&hvdev=c&hvlocphy=9029671&hvnetw=g&hvqmt=b&hvrand=10171805049469228781&hvtargid=kwd-999593233141&hydadcr=16266_13398512&keywords=narwal+mop+and+vacuum&qid=1710297000&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.ac578592-0362-4e0a-958c-0f2dd61d30d4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
+7. Narwal Company Website - [Narwal About](ca.narwal.com/pages/about-narwal)
