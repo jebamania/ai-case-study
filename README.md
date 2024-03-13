@@ -1,4 +1,4 @@
-# TITLE
+# AI Case Study Assignment
 
 ## Overview and Origin
 
